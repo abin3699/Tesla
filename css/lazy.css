@@ -1,0 +1,7 @@
+.lazy-background {
+    background-image: url("hero-placeholder.jpg"); /* Placeholder image */
+  }
+  
+  .lazy-background.visible {
+    background-image: url("hero.jpg"); /* The final image */
+  }
